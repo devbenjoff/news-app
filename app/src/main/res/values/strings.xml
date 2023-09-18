@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OwnNewsApp</string>
+    <string name="bitcoin_price_today">Bitcoin price today</string>
+    <string name="favorite_button">Favorite button</string>
+</resources>
